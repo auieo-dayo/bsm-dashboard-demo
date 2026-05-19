@@ -17,7 +17,7 @@
 
 ## ダッシュボードごとの注意事項
 
->## Controler
+>## Controller
 >- このダッシュボードでは、[KiwiMaru](https://fonts.google.com/specimen/Kiwi+Maru)フォント(SIL OPEN FONT LICENSE)を使用しています
 >- このダッシュボードでは、[WDXLLubrifontJPN](https://fonts.google.com/specimen/WDXL+Lubrifont+JP+N)フォント(SIL OPEN FONT LICENSE)を使用しています
 
