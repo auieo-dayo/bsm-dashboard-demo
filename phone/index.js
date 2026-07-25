@@ -106,7 +106,7 @@ async function refresh() {
     document.getElementById("ServerName").textContent = json.info.BDS.servername
     document.getElementById("Player").textContent = `${json.info.BDS.player.now}/${json.info.BDS.player.max}`
     document.getElementById("Version").textContent = json.info.BDS.version
-    document.getElementById("BSWVersion").textContent = json.info.server.BSWVer
+    document.getElementById("BSMVersion").textContent = json.info.server.BSMVer
     document.getElementById("all-backup").textContent = json.backups.allbackup
     document.getElementById("today-backup").textContent = json.backups.today
     document.getElementById("mem").querySelector(".fill").style.width = `${Number(json.info.server.mem.par).toFixed(0)}%`

@@ -128,7 +128,7 @@ function setmove(box) {
 function setinfo(json) {
     document.getElementById("info-server").textContent = json.BDS.servername
     document.getElementById("info-BDS-ver").textContent = json.BDS.version
-    document.getElementById("info-BSW-ver").textContent = json.server.BSWVer
+    document.getElementById("info-BSM-ver").textContent = json.server.BSMVer
 
     document.getElementById("info-pl-online").textContent = json.BDS.player.now
     document.getElementById("info-pl-max").textContent = json.BDS.player.max
