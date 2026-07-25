@@ -1,4 +1,4 @@
-// https://github.com/auieo-dayo/bsw-dashboard-demo/ | phone | スマホ用ダッシュボード
+// https://github.com/auieo-dayo/bsm-dashboard-demo/ | phone | スマホ用ダッシュボード
 // MIT LICENSE
 
 /**

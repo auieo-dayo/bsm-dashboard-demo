@@ -1,8 +1,8 @@
-# [BSW](https://github.com/auieo-dayo/bsw) Dashboard Demo
+# [BSM](https://github.com/auieo-dayo/bedrock-server-manager) Dashboard Demo
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-## [BSW](https://github.com/auieo-dayo/bsw)のwww/に配置で動くダッシュボードのデモ達
+## [BSM](https://github.com/auieo-dayo/bedrock-server-manager)のwww/に配置で動くダッシュボードのデモ達
 
 ### 同封されているダッシュボード
 - `/Controler/` - PC用に最適化したダッシュボード

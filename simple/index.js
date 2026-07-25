@@ -1,4 +1,4 @@
-// https://github.com/auieo-dayo/bsw-dashboard-demo/ | simple | PC,スマホ用ダッシュボード
+// https://github.com/auieo-dayo/bsm-dashboard-demo/ | simple | PC,スマホ用ダッシュボード
 // MIT LICENSE
 
 let bdsver = ""
@@ -233,7 +233,7 @@ setInterval(async()=>{
     li.textContent = p.name
     document.getElementById("players").appendChild(li)
   }
-},1000*10)
+},1000*5)
 document.getElementById("submit").addEventListener("click",()=>{
   const input = document.getElementById("inputcmd")
   if (!input.value) return
